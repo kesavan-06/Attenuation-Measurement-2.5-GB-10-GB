@@ -90,6 +90,7 @@ Your report should contain:
 - **Summary Table** for each simulation:
   | Fiber Length (km) | Received Power (dBm) | Q Factor | BER |
   |-------------------|-----------------------|----------|-----|
-  
+  ![WhatsApp Image 2026-02-04 at 10 39 11](https://github.com/user-attachments/assets/f48b552e-be18-48f9-b963-6107942828e6)
+
 
 - **Written Summary** of observations and explanations of differences.  
